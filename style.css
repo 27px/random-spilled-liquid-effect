@@ -1,0 +1,19 @@
+*
+{
+  padding:0;
+  margin:0;
+}
+body
+{
+  overflow:hidden;
+  background:#FFFFFF;
+}
+canvas
+{
+  position:absolute;
+  top:0;
+  left:0;
+  background:#FFFFFF;
+  background:linear-gradient(135deg,#81D4FA,#0D47A1);
+  outline:2px solid #000000;
+}
